@@ -37,8 +37,8 @@ def update_dict(message):
     #print('Answers checked.')
     check_sheshe(message)
     #print('Sheshe checked.')
-    hanged_man(message)
     remember(message)
+    hanged_man(message)
     
 def getData (data_in):
     try:
